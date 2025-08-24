@@ -86,6 +86,6 @@ Sınıflandırma Kategorileri:
 
 ## 🧩 Uygulama Görüntüsü
 
-<img width="898" height="1019" alt="image" src="https://github.com/user-attachments/assets/e4c1f639-bd87-4225-b78c-46abc3e12935" />
+<img width="1920" height="2175" alt="Shoe-Return-Evaluator" src="https://github.com/user-attachments/assets/95361a84-9e05-41fa-9f7b-e7ec5ab49548" />
 
 - This project was developed by Meryem Erdoğdu.
