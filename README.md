@@ -86,6 +86,6 @@ Sınıflandırma Kategorileri:
 
 ## 🧩 Uygulama Görüntüsü
 
-<img width="1920" height="2175" alt="screencapture-27a8bdeb-0a61-4d96-9b44-2b69f84dce8f-00-kclg86cvtmgt-kirk-replit-dev-2025-08-24-11_58_18" src="https://github.com/user-attachments/assets/8d1845c8-101b-42a9-8af2-363223ea8769" />
+<img width="898" height="1019" alt="image" src="https://github.com/user-attachments/assets/e4c1f639-bd87-4225-b78c-46abc3e12935" />
 
 - This project was developed by Meryem Erdoğdu.
